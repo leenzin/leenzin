@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Olá mundo!</h1>
+<h3> Sobre mim ☕</h3>
 
-<!--
-**leenzin/leenzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Olá! Me chamo Leonardo, sou desenvolvedor front-end, comecei a me interessar por programação com 12 anos. Nasci em Campinas, São Paulo em 2008. Sou uma pessoa alegre, muito tímida e gosto de fazer amizades.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Minhas habilidades 🛡️</h3>
+
+> HTML5 - Básico
+> 
+>CSS3 - Básico
+
+##
+
+<h3>Contato ☎️</h3>
+
+> Discord: Leenzin#8566
+> 
+> Email: leosrostirolla@gmail.com
