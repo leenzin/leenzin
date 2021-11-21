@@ -19,4 +19,4 @@
 > 
 > Email: leosrostirolla@gmail.com
 
-![Snake animation](https://github.com/leezin/leezin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leenzin/leenzin/blob/output/github-contribution-grid-snake.svg)
